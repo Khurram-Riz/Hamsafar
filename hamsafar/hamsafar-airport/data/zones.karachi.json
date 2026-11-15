@@ -1,0 +1,96 @@
+{
+  "airport": {
+    "code": "KHI",
+    "name": "Jinnah International Airport, Karachi",
+    "lat": 24.9065,
+    "lng": 67.1608,
+    "meeting_point": "Jinnah International Airport - Arrivals Gate B, Pillar 4 (Hamsafar Bay)",
+    "landmark": "Opposite Domestics/Internationals Exit Ramp B near Masjid Gate"
+  },
+  "corridors": [
+    {
+      "slug": "korangi-defence",
+      "name": "Korangi / Defence Corridor",
+      "color": "#0d9488",
+      "zones": [
+        {
+          "slug": "dha-phase-1-8",
+          "name": "DHA Phase 1-8",
+          "lat": 24.8138,
+          "lng": 67.0601,
+          "radius_km": 4.8,
+          "order_in_corridor": 1,
+          "active": true
+        },
+        {
+          "slug": "clifton",
+          "name": "Clifton",
+          "lat": 24.8135,
+          "lng": 67.03,
+          "radius_km": 3.5,
+          "order_in_corridor": 2,
+          "active": true
+        }
+      ]
+    },
+    {
+      "slug": "university-road",
+      "name": "University Road Corridor",
+      "color": "#d97706",
+      "zones": [
+        {
+          "slug": "gulistan-e-johar",
+          "name": "Gulistan-e-Johar",
+          "lat": 24.9207,
+          "lng": 67.1344,
+          "radius_km": 3.6,
+          "order_in_corridor": 1,
+          "active": true
+        },
+        {
+          "slug": "gulshan-e-iqbal",
+          "name": "Gulshan-e-Iqbal",
+          "lat": 24.92,
+          "lng": 67.0912,
+          "radius_km": 3.8,
+          "order_in_corridor": 2,
+          "active": true
+        }
+      ]
+    },
+    {
+      "slug": "shahrah-e-faisal",
+      "name": "Shahrah-e-Faisal Corridor",
+      "color": "#2563eb",
+      "zones": [
+        {
+          "slug": "pechs",
+          "name": "PECHS",
+          "lat": 24.8675,
+          "lng": 67.0645,
+          "radius_km": 3.0,
+          "order_in_corridor": 1,
+          "active": true
+        },
+        {
+          "slug": "tariq-road",
+          "name": "Tariq Road Area",
+          "lat": 24.8716,
+          "lng": 67.0589,
+          "radius_km": 2.6,
+          "order_in_corridor": 2,
+          "active": true
+        },
+        {
+          "slug": "saddar",
+          "name": "Saddar",
+          "lat": 24.8556,
+          "lng": 67.0285,
+          "radius_km": 3.0,
+          "order_in_corridor": 3,
+          "active": true
+        }
+      ]
+    }
+  ]
+}
