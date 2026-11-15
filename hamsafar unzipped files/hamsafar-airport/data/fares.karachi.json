@@ -1,0 +1,64 @@
+{
+  "currency": "PKR",
+  "as_of_date": "2026-11-11",
+  "is_placeholder": true,
+  "basis_note": "Unverified MVP placeholders. solo_fare_pkr = price of the WHOLE ride for one rider in a car; the ride fare is split equally among everyone sharing it (rickshaw/van use a price multiplier). seat_fare_pkr = indicative lowest share when the vehicle is full. Pending operator quote validation.",
+  "fares": [
+    {
+      "zone_slug": "dha-phase-1-8",
+      "zone_name": "DHA Phase 1-8",
+      "seat_fare_pkr": 750,
+      "solo_fare_pkr": 2600,
+      "as_of_date": "2026-11-11",
+      "is_placeholder": true
+    },
+    {
+      "zone_slug": "clifton",
+      "zone_name": "Clifton",
+      "seat_fare_pkr": 800,
+      "solo_fare_pkr": 2800,
+      "as_of_date": "2026-11-11",
+      "is_placeholder": true
+    },
+    {
+      "zone_slug": "gulistan-e-johar",
+      "zone_name": "Gulistan-e-Johar",
+      "seat_fare_pkr": 550,
+      "solo_fare_pkr": 1800,
+      "as_of_date": "2026-11-11",
+      "is_placeholder": true
+    },
+    {
+      "zone_slug": "gulshan-e-iqbal",
+      "zone_name": "Gulshan-e-Iqbal",
+      "seat_fare_pkr": 650,
+      "solo_fare_pkr": 2100,
+      "as_of_date": "2026-11-11",
+      "is_placeholder": true
+    },
+    {
+      "zone_slug": "pechs",
+      "zone_name": "PECHS",
+      "seat_fare_pkr": 700,
+      "solo_fare_pkr": 2300,
+      "as_of_date": "2026-11-11",
+      "is_placeholder": true
+    },
+    {
+      "zone_slug": "tariq-road",
+      "zone_name": "Tariq Road Area",
+      "seat_fare_pkr": 700,
+      "solo_fare_pkr": 2400,
+      "as_of_date": "2026-11-11",
+      "is_placeholder": true
+    },
+    {
+      "zone_slug": "saddar",
+      "zone_name": "Saddar",
+      "seat_fare_pkr": 850,
+      "solo_fare_pkr": 2900,
+      "as_of_date": "2026-11-11",
+      "is_placeholder": true
+    }
+  ]
+}
